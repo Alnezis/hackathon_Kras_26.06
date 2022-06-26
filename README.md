@@ -7,3 +7,5 @@ Work bild (only desktop browser) https://alnezis.riznex.ru/#/
  
 Android App: https://github.com/draneone/smart_kindergarden
 APK: https://github.com/draneone/smart_kindergarden/releases/tag/v06a
+
+OpenCV+dlib Docker image: https://github.com/JanLoebel/face_recognition
